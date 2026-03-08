@@ -10,8 +10,8 @@ const Hero = () => {
     return (
         <section id="hero">
             <div>
-                <h1>MacBook Pro</h1>
-                <img src="/title.png" alt="MacBook Title" />
+                <h1>CandelaRolls</h1>
+                <img src="/title.png" alt="CandelaRolls Title" />
             </div>
 
             <video ref={videoRef} src="/videos/hero.mp4" autoPlay muted playsInline />
